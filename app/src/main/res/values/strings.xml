@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testapp</string>
+
+    <string-array name="myarray">
+        <item>Asmita</item>
+        <item>Tanisha</item>
+        <item>Kashika</item>
+        <item>Aditi</item>
+    </string-array>
+</resources>
